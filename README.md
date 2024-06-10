@@ -1,4 +1,4 @@
-<h2 align="left">Hey, I'm Shiana!👋 👋 <br><br>A Backend Software Engineer passionate about creating scalable solutions for complex problems.</h2>
+<h2 align="left">Hey, I'm Shiana!👋 <br><br> I'm Backend Software Engineer passionate about creating scalable solutions for complex problems.</h2>
 
 ###
 
